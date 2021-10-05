@@ -1,7 +1,3 @@
-var1 = 1
+numeros = [5, 10,15, 20]
 
-var2 = 2
-
-total = var1 + var2 
-
-print(total)
+print(max(numeros))

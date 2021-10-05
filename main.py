@@ -1,3 +1,9 @@
-numeros = [5, 10,15, 20]
+dias = [
+    'Segunda-feira',
+    'Terça-feira',
+    'Quarta-feira'
+]
 
-print(max(numeros))
+
+dias.append('teste')
+print(dias)

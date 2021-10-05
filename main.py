@@ -1,9 +1,6 @@
-dias = [
-    'Segunda-feira',
-    'Terça-feira',
-    'Quarta-feira'
-]
+nome = 'Rafael'
+
+idade = '20 anos'
 
 
-dias.append('teste')
-print(dias)
+print('Olá, muito prazer, meu nome é' ' ' + nome + ' ' 'tenho' ' ' + idade)
